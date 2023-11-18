@@ -151,6 +151,6 @@ a {
 
 @media only screen and (min-width: 1024px) {
   .tick--list .list__item {
-    padding-left: 40;
+    padding-left: 0;
   }
 }
